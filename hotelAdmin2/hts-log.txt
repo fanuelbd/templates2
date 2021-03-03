@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Mar 2021 11:11:34 at http://radixtouch.in/templates/admin/hotel/source/index.html# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://radixtouch.in/templates/admin/hotel/source/index.html# -O1 "C:\My Web Sites\hotelAdmin2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:33	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/img/datatable-row-openclose.png (from radixtouch.in/templates/admin/hotel/source/assets/css/plugins.min.css)
+11:18:47	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/staff_profile.html (from radixtouch.in/templates/admin/hotel/source/all_staffs.html)
+11:18:47	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/icons.html (from radixtouch.in/templates/admin/hotel/source/layout_full_width.html)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/img/error.png (from radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/img/play-pause.png (from radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/img/error.svg (from radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/img/play-pause.svg (from radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/img/video-play.png (from radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/img/video-play.svg (from radixtouch.in/templates/admin/hotel/source/assets/plugins/jquery-file-upload/blueimp-gallery/blueimp-gallery.min.css)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/owl-carousel/grabbing.png (from radixtouch.in/templates/admin/hotel/source/assets/plugins/owl-carousel/owl.carousel.css)
+11:19:49	Error: 	"Not Found" (404) at link radixtouch.in/templates/admin/hotel/source/assets/plugins/owl-carousel/AjaxLoader.gif (from radixtouch.in/templates/admin/hotel/source/assets/plugins/owl-carousel/owl.theme.css)
+11:19:49	Error: 	"Not Found" (404) at link https://preview.w3layouts.com/demos/flat_pricing_tables_design/web/images/filter-bg.png (from radixtouch.in/templates/admin/hotel/source/assets/css/pages/pricing.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 15 seconds : 348 links scanned, 335 files written (17513132 bytes overall) [12484111 bytes received at 25220 bytes/sec], 5832029 bytes transferred using HTTP compression in 86 files, ratio 11%, 2.9 requests per connection
+(12 errors, 0 warnings, 0 messages)

@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Mar 2021 11:20:26 at https://radixtouch.com/templates/admin/spiceangular/source/light/#/dashboard/main +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://radixtouch.com/templates/admin/spiceangular/source/light/#/dashboard/main -O1 "C:\My Web Sites\AdminwithAngular" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:20:35	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+11:20:35	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/dashboard/main (from primary/primary)
+11:20:37	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/dashboard/main (from primary/primary)
+11:20:40	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/dashboard/main (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 6 links scanned, 1 files written (12224 bytes overall) [3878 bytes received at 277 bytes/sec], 12462 bytes transferred using HTTP compression in 2 files, ratio 15%
+(2 errors, 2 warnings, 0 messages)

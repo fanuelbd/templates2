@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.radixtouch.com	TRUE	/	FALSE	1999999999	__cfduid	d295204777c6fd5f33988d7ef8e8f51601614799231
+radixtouch.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
